@@ -1,0 +1,57 @@
+{
+  "rate_limiter": {
+    "min_delay": 1.0,
+    "max_delay": 3.0,
+    "rpm_limit": 20
+  },
+  "browser": {
+    "type": "chrome",
+    "headless": false
+  },
+  "default_locations": "Bangalore",
+  "ui": {
+    "theme": "heritage"
+  },
+  "history": [
+    {
+      "date": "2025-05-12T09:51:16.766384",
+      "type": "category",
+      "categories": [
+        "Icecream Cones"
+      ],
+      "locations": [
+        "Bangalore"
+      ],
+      "product_count": 23,
+      "output_file": "./results\\zepto_category_scrape_20250512_095116.xlsx",
+      "status": "success"
+    },
+    {
+      "date": "2025-05-12T10:06:56.185028",
+      "type": "category",
+      "categories": [
+        "Icecream Cones"
+      ],
+      "locations": [
+        "Bangalore"
+      ],
+      "product_count": 23,
+      "output_file": "./results\\zepto_category_scrape_20250512_100655.xlsx",
+      "status": "success"
+    },
+    {
+      "date": "2025-05-12T10:09:50.964946",
+      "type": "category",
+      "categories": [
+        "Milk Drinks"
+      ],
+      "locations": [
+        "Bangalore"
+      ],
+      "product_count": 32,
+      "output_file": "./results\\zepto_category_scrape_20250512_100950.xlsx",
+      "status": "success"
+    }
+  ],
+  "scheduled_tasks": []
+}

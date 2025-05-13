@@ -1,0 +1,222 @@
+2025-05-09 09:31:39,003 - ZeptoScraper.Config - INFO - No configuration file found at zepto_scraper_config.json, using defaults
+2025-05-09 09:31:39,613 - ZeptoScraper - INFO - Configuration loaded successfully
+2025-05-09 09:31:39,615 - ZeptoScraper.Scheduler - INFO - Starting scheduler service
+2025-05-09 09:31:39,619 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 09:31:39,619 - ZeptoScraper.Scheduler - INFO - Scheduler service started successfully
+2025-05-09 09:31:56,132 - ZeptoScraper.Config - INFO - No configuration file found at zepto_scraper_config.json, using defaults
+2025-05-09 09:31:56,426 - ZeptoScraper - INFO - Configuration loaded successfully
+2025-05-09 09:31:56,427 - ZeptoScraper.Scheduler - INFO - Starting scheduler service
+2025-05-09 09:31:56,428 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 09:31:56,431 - ZeptoScraper.Scheduler - INFO - Scheduler service started successfully
+2025-05-09 11:31:51,052 - ZeptoScraper.Config - INFO - No configuration file found at zepto_scraper_config.json, using defaults
+2025-05-09 11:31:52,779 - ZeptoScraper - INFO - Configuration loaded successfully
+2025-05-09 11:31:52,782 - ZeptoScraper.Scheduler - INFO - Starting scheduler service
+2025-05-09 11:31:52,785 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 11:31:52,794 - ZeptoScraper.Scheduler - INFO - Scheduler service started successfully
+2025-05-09 11:32:05,468 - ZeptoScraper.Config - INFO - No configuration file found at zepto_scraper_config.json, using defaults
+2025-05-09 11:32:05,787 - ZeptoScraper - INFO - Configuration loaded successfully
+2025-05-09 11:32:05,790 - ZeptoScraper.Scheduler - INFO - Starting scheduler service
+2025-05-09 11:32:05,792 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 11:32:05,792 - ZeptoScraper.Scheduler - INFO - Scheduler service started successfully
+2025-05-09 11:37:55,093 - ZeptoScraper.Config - INFO - No configuration file found at zepto_scraper_config.json, using defaults
+2025-05-09 11:37:56,949 - ZeptoScraper - INFO - Configuration loaded successfully
+2025-05-09 11:37:56,952 - ZeptoScraper.Scheduler - INFO - Starting scheduler service
+2025-05-09 11:37:56,954 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-09 11:37:56,955 - ZeptoScraper.Scheduler - INFO - Scheduler service started successfully
+2025-05-10 05:23:46,719 - ZeptoScraper.ConfigManager - INFO - Configuration file not found, creating default at zepto_scraper_config.json
+2025-05-10 05:23:46,722 - ZeptoScraper.ConfigManager - INFO - Configuration saved to zepto_scraper_config.json
+2025-05-10 05:23:46,997 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 05:23:46,998 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 05:23:46,999 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 05:23:46,999 - ZeptoScraper - INFO - Application initialized
+2025-05-10 05:24:01,823 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 05:24:02,065 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 05:24:02,067 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 05:24:02,068 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 05:24:02,068 - ZeptoScraper - INFO - Application initialized
+2025-05-10 05:54:19,553 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 05:54:19,760 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 05:54:19,762 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 05:54:19,763 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 05:54:19,763 - ZeptoScraper - INFO - Application initialized
+2025-05-10 05:54:31,934 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 05:54:32,133 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 05:54:32,135 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 05:54:32,135 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 05:54:32,135 - ZeptoScraper - INFO - Application initialized
+2025-05-10 06:51:59,232 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 06:51:59,463 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 06:51:59,465 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 06:51:59,466 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 06:51:59,466 - ZeptoScraper - INFO - Application initialized
+2025-05-10 06:54:01,149 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 06:54:01,384 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 06:54:01,387 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 06:54:01,387 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 06:54:01,387 - ZeptoScraper - INFO - Application initialized
+2025-05-10 06:59:51,427 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 06:59:51,733 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 07:00:52,112 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 07:00:52,361 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 07:01:01,383 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 07:01:01,582 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 07:01:54,931 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 07:01:55,128 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 07:01:55,177 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 07:01:55,179 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 07:01:55,181 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 07:01:55,182 - ZeptoScraper - INFO - Application initialized
+2025-05-10 07:02:21,660 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 07:02:21,833 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 07:02:21,872 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 07:02:21,874 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 07:02:21,875 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 07:02:21,875 - ZeptoScraper - INFO - Application initialized
+2025-05-10 07:02:34,222 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 07:02:34,453 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 07:02:34,518 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 07:02:34,521 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 07:02:34,526 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 07:02:34,530 - ZeptoScraper - INFO - Application initialized
+2025-05-10 07:02:49,894 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 07:02:50,119 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 07:02:50,181 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 07:02:50,184 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 07:02:50,186 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 07:02:50,186 - ZeptoScraper - INFO - Application initialized
+2025-05-10 07:03:04,079 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 07:03:04,274 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 07:03:04,316 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 07:03:04,318 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 07:03:04,325 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 07:03:04,325 - ZeptoScraper - INFO - Application initialized
+2025-05-10 07:16:43,037 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 07:16:43,230 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 07:16:43,274 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 07:16:43,276 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 07:16:43,279 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 07:16:43,279 - ZeptoScraper - INFO - Application initialized
+2025-05-10 07:17:53,609 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 07:17:53,773 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 07:17:53,814 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 07:17:53,816 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 07:17:53,817 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 07:17:53,817 - ZeptoScraper - INFO - Application initialized
+2025-05-10 07:18:43,732 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 07:18:43,888 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 07:18:43,933 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 07:18:43,935 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 07:18:43,936 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 07:18:43,936 - ZeptoScraper - INFO - Application initialized
+2025-05-10 07:19:48,566 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 07:19:49,850 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 07:19:49,967 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 07:19:49,970 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 07:19:49,973 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 07:19:49,974 - ZeptoScraper - INFO - Application initialized
+2025-05-10 07:19:59,333 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 07:19:59,552 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 07:19:59,619 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 07:19:59,622 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 07:19:59,622 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 07:19:59,622 - ZeptoScraper - INFO - Application initialized
+2025-05-10 07:20:06,948 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 07:20:07,228 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 07:20:07,293 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 07:20:07,295 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 07:20:07,296 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 07:20:07,296 - ZeptoScraper - INFO - Application initialized
+2025-05-10 07:20:14,493 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 07:20:14,718 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 07:20:14,769 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 07:20:14,772 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 07:20:14,772 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 07:20:14,773 - ZeptoScraper - INFO - Application initialized
+2025-05-10 19:47:17,908 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 19:47:18,157 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 19:47:18,223 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 19:47:18,225 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 19:47:18,227 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 19:47:18,227 - ZeptoScraper - INFO - Application initialized
+2025-05-10 19:48:15,130 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 19:48:15,401 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 19:48:15,462 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 19:48:15,463 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 19:48:15,464 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 19:48:15,464 - ZeptoScraper - INFO - Application initialized
+2025-05-10 20:08:31,897 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 20:08:32,186 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 20:08:32,304 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 20:08:32,306 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 20:08:32,307 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 20:08:32,307 - ZeptoScraper - INFO - Application initialized
+2025-05-10 20:09:54,157 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 20:09:54,458 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 20:09:54,540 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 20:09:54,541 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 20:09:54,543 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 20:09:54,543 - ZeptoScraper - INFO - Application initialized
+2025-05-10 20:10:57,522 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 20:10:57,873 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 20:10:57,962 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 20:10:57,964 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 20:10:57,965 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 20:10:57,966 - ZeptoScraper - INFO - Application initialized
+2025-05-10 20:11:58,827 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 20:11:59,156 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 20:12:52,522 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 20:12:52,820 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 20:12:52,970 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 20:12:52,975 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 20:12:52,977 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 20:12:52,977 - ZeptoScraper - INFO - Application initialized
+2025-05-10 20:13:05,861 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 20:13:06,197 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 20:13:06,303 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 20:13:06,305 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 20:13:06,307 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 20:13:06,307 - ZeptoScraper - INFO - Application initialized
+2025-05-10 20:14:20,122 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 20:14:20,349 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 20:14:20,419 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 20:14:20,421 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 20:14:20,431 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 20:14:20,432 - ZeptoScraper - INFO - Application initialized
+2025-05-10 20:16:51,799 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-10 20:16:52,105 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-10 20:16:52,202 - ZeptoScraper - INFO - Configuration loaded
+2025-05-10 20:16:52,205 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-10 20:16:52,206 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-10 20:16:52,207 - ZeptoScraper - INFO - Application initialized
+2025-05-12 09:49:53,028 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-12 09:49:53,425 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-12 09:49:54,327 - ZeptoScraper - INFO - Configuration loaded
+2025-05-12 09:49:54,329 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-12 09:49:54,329 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-12 09:49:54,329 - ZeptoScraper - INFO - Application initialized
+2025-05-12 09:50:11,706 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (135.0.7049.95) detected in PATH at C:\Users\aniru\Documents\milk_scraper\chromedriver.exe might not be compatible with the detected chrome version (136.0.7103.93); currently, chromedriver 136.0.7103.92 is recommended for chrome 136.*, so it is advised to delete the driver in PATH and retry
+2025-05-12 09:51:16,766 - ZeptoScraper.ConfigManager - INFO - Configuration saved to zepto_scraper_config.json
+2025-05-12 09:51:16,766 - ZeptoScraper.ConfigManager - INFO - Added history item: category - 2025-05-12T09:51:16.766384
+2025-05-12 10:05:23,052 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-12 10:05:23,435 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-12 10:05:24,127 - ZeptoScraper - INFO - Configuration loaded
+2025-05-12 10:05:24,127 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-12 10:05:24,127 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-12 10:05:24,127 - ZeptoScraper - INFO - Application initialized
+2025-05-12 10:05:51,882 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (135.0.7049.95) detected in PATH at C:\Users\aniru\Documents\milk_scraper\chromedriver.exe might not be compatible with the detected chrome version (136.0.7103.93); currently, chromedriver 136.0.7103.92 is recommended for chrome 136.*, so it is advised to delete the driver in PATH and retry
+2025-05-12 10:06:56,185 - ZeptoScraper.ConfigManager - INFO - Configuration saved to zepto_scraper_config.json
+2025-05-12 10:06:56,186 - ZeptoScraper.ConfigManager - INFO - Added history item: category - 2025-05-12T10:06:56.185028
+2025-05-12 10:08:23,168 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (135.0.7049.95) detected in PATH at C:\Users\aniru\Documents\milk_scraper\chromedriver.exe might not be compatible with the detected chrome version (136.0.7103.93); currently, chromedriver 136.0.7103.92 is recommended for chrome 136.*, so it is advised to delete the driver in PATH and retry
+2025-05-12 10:09:50,969 - ZeptoScraper.ConfigManager - INFO - Configuration saved to zepto_scraper_config.json
+2025-05-12 10:09:50,969 - ZeptoScraper.ConfigManager - INFO - Added history item: category - 2025-05-12T10:09:50.964946
+2025-05-12 10:11:07,897 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-05-12 10:11:07,897 - ZeptoScraper.Scheduler - INFO - Scheduler service stopped
+2025-05-12 11:52:57,005 - ZeptoScraper.ConfigManager - INFO - Configuration loaded from zepto_scraper_config.json
+2025-05-12 11:52:57,563 - ZeptoScraper.UI - INFO - Applied custom Heritage theme
+2025-05-12 11:52:58,622 - ZeptoScraper - INFO - Configuration loaded
+2025-05-12 11:52:58,622 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-12 11:52:58,622 - ZeptoScraper.Scheduler - INFO - Scheduler service started
+2025-05-12 11:52:58,622 - ZeptoScraper - INFO - Application initialized
+2025-05-12 11:53:04,271 - ZeptoScraper.UI - INFO - Applied itft1 theme
+2025-05-12 12:02:23,220 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-05-12 12:02:23,223 - ZeptoScraper.Scheduler - INFO - Scheduler service stopped
